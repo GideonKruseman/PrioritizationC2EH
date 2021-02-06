@@ -2,7 +2,9 @@
 Data and model code used for the paper on evidence for breeding priority setting (Kruseman, et al. 2021).  
  
 status: Under Development
+
 dated:  February 6, 2021
+
 Note:   if you want a heads-up when there is substantive informastion available please contact g.kruseman@cgiar.org
 
 # Overview
